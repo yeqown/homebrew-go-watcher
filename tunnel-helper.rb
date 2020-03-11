@@ -5,7 +5,7 @@ class GoWatcher < Formula
     desc "tunnel-helper help useful ssh tunnel situation"
     homepage ""
     url "https://github.com/yeqown/infrastructure/releases/download/v0.3.4/tunnel-helper.tar.gz"
-    sha256 "a31218f8964343f3359b24f42f3cfff1d78725bdbc9c0f35ec7928e2a286f27e"
+    sha256 "52957f594bae9a4a53de22b7c2a4865215879ca4875a80a953f6838999eb149e"
     # depends_on "cmake" => :build
   
     def install
@@ -18,7 +18,7 @@ class GoWatcher < Formula
       # system "cmake", ".", *std_cmake_args
       # system "make", "install" # if this fails, try separate make/make install steps
       # system "tar -zxvf go-watcher.osx.tar.gz"
-      bin.install "go-watcher"
+      bin.install "tunnel-helper"
     end
   
     test do
