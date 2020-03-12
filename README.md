@@ -10,6 +10,9 @@ homebrew tap for yeqown's tools
 
 [3] [font2img](https://github.com/yeqown/infrastructure/cmd/font2img)
 
+
+[4] [go-qrcode](https://github.com/yeqown/go-qrcode)
+
 ## install 
 
 ```sh
