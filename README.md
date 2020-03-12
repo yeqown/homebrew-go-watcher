@@ -16,6 +16,6 @@ homebrew tap for yeqown's tools
 ## install 
 
 ```sh
-brew tab yeqown/tap
+brew tap yeqown/tap
 brew install [FORMULA...]
 ```
