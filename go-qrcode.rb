@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class GoQRCode < Formula
+class GoQrcode < Formula
     desc "go-qrcode could generate QR Code image for your custom content"
     homepage "https://github.com/yeqown/go-qrcode"
     url "https://github.com/yeqown/go-qrcode/releases/download/v1.2.1/go-qrcode.osx.tar.gz"

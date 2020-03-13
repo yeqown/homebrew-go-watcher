@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Font2Img < Formula
+class Font2img < Formula
     desc "font2img could generate img from font"
     homepage ""
     url "https://github.com/yeqown/infrastructure/releases/download/v0.3.4/font2img.tar.gz"
